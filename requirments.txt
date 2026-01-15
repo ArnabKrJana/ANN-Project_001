@@ -1,0 +1,11 @@
+matplotlib
+tensorflow==2.15.0
+keras
+tqdm
+pandas
+numpy
+seaborn
+scikit-learn
+ipykernel
+streamlit
+tensorboard
