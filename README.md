@@ -97,6 +97,19 @@ An interactive Streamlit app that allows users to:
 - IPyKernel
 
 ---
+---
+
+## 👤 Author Details
+
+**Name:** Arnab Kumar Jana  
+
+**LinkedIn:**  
+https://www.linkedin.com/in/arnab-kumar-jana-827420377  
+
+**GitHub:**  
+https://github.com/ArnabKrJana  
+
+---
 
 ## 📦 Installation & Setup
 
@@ -104,4 +117,7 @@ An interactive Streamlit app that allows users to:
 ```bash
 git clone https://github.com/your-username/customer-churn-ann.git
 cd customer-churn-ann
+pip install -r requirements.txt
+streamlit run app.py
+
 
