@@ -115,7 +115,7 @@ https://github.com/ArnabKrJana
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/customer-churn-ann.git
+git clone https://github.com/ArnabKrJana/customer-churn-ann.git
 cd customer-churn-ann
 pip install -r requirements.txt
 streamlit run app.py
