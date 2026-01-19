@@ -1,5 +1,9 @@
 streamlit
+<<<<<<< HEAD
 tensorflow-cpu==2.12.0
+=======
+tensorflow-cpu
+>>>>>>> 67da7c8c0bff270f418f1aae8b755c71b70f72bc
 numpy
 pandas
 scikit-learn
